@@ -1,226 +1,1201 @@
 ,Method,Slice,Violation_Rate (%)
-0,BestCQI,Critical Slice,83.33333333333334
-1,BestCQI,Performance Slice,60.0
-2,BestCQI,Business Slice,75.0
-3,NVS,Critical Slice,0.0
-4,NVS,Performance Slice,50.0
-5,NVS,Business Slice,100.0
-6,Proposed_HSRS,Critical Slice,0.0
-7,Proposed_HSRS,Performance Slice,0.0
-8,Proposed_HSRS,Business Slice,25.0
-9,BestCQI,Critical Slice,50.0
-10,BestCQI,Performance Slice,80.0
-11,BestCQI,Business Slice,100.0
-12,NVS,Critical Slice,0.0
-13,NVS,Performance Slice,50.0
-14,NVS,Business Slice,100.0
-15,Proposed_HSRS,Critical Slice,0.0
-16,Proposed_HSRS,Performance Slice,0.0
-17,Proposed_HSRS,Business Slice,25.0
-18,BestCQI,Critical Slice,50.0
-19,BestCQI,Performance Slice,60.0
-20,BestCQI,Business Slice,100.0
-21,NVS,Critical Slice,0.0
-22,NVS,Performance Slice,50.0
-23,NVS,Business Slice,100.0
-24,Proposed_HSRS,Critical Slice,0.0
-25,Proposed_HSRS,Performance Slice,0.0
-26,Proposed_HSRS,Business Slice,25.0
-27,BestCQI,Critical Slice,66.66666666666666
-28,BestCQI,Performance Slice,60.0
+0,Optimal ILP,Critical Slice,0.0
+1,Optimal ILP,Performance Slice,0.0
+2,Optimal ILP,Business Slice,50.0
+3,BestCQI,Critical Slice,50.0
+4,BestCQI,Performance Slice,80.0
+5,BestCQI,Business Slice,100.0
+6,NVS,Critical Slice,0.0
+7,NVS,Performance Slice,50.0
+8,NVS,Business Slice,100.0
+9,Proposed_HSRS,Critical Slice,0.0
+10,Proposed_HSRS,Performance Slice,0.0
+11,Proposed_HSRS,Business Slice,25.0
+12,Optimal ILP,Critical Slice,0.0
+13,Optimal ILP,Performance Slice,0.0
+14,Optimal ILP,Business Slice,0.0
+15,BestCQI,Critical Slice,66.66666666666666
+16,BestCQI,Performance Slice,50.0
+17,BestCQI,Business Slice,75.0
+18,NVS,Critical Slice,8.333333333333332
+19,NVS,Performance Slice,50.0
+20,NVS,Business Slice,100.0
+21,Proposed_HSRS,Critical Slice,0.0
+22,Proposed_HSRS,Performance Slice,0.0
+23,Proposed_HSRS,Business Slice,50.0
+24,Optimal ILP,Critical Slice,0.0
+25,Optimal ILP,Performance Slice,0.0
+26,Optimal ILP,Business Slice,0.0
+27,BestCQI,Critical Slice,50.0
+28,BestCQI,Performance Slice,50.0
 29,BestCQI,Business Slice,75.0
-30,NVS,Critical Slice,8.333333333333332
+30,NVS,Critical Slice,0.0
 31,NVS,Performance Slice,50.0
 32,NVS,Business Slice,100.0
 33,Proposed_HSRS,Critical Slice,0.0
-34,Proposed_HSRS,Performance Slice,20.0
-35,Proposed_HSRS,Business Slice,50.0
-36,BestCQI,Critical Slice,66.66666666666666
-37,BestCQI,Performance Slice,40.0
-38,BestCQI,Business Slice,100.0
-39,NVS,Critical Slice,0.0
-40,NVS,Performance Slice,50.0
-41,NVS,Business Slice,100.0
-42,Proposed_HSRS,Critical Slice,0.0
-43,Proposed_HSRS,Performance Slice,0.0
-44,Proposed_HSRS,Business Slice,25.0
-45,BestCQI,Critical Slice,50.0
-46,BestCQI,Performance Slice,60.0
-47,BestCQI,Business Slice,100.0
-48,NVS,Critical Slice,16.666666666666664
-49,NVS,Performance Slice,50.0
-50,NVS,Business Slice,100.0
-51,Proposed_HSRS,Critical Slice,0.0
-52,Proposed_HSRS,Performance Slice,20.0
-53,Proposed_HSRS,Business Slice,75.0
-54,BestCQI,Critical Slice,50.0
-55,BestCQI,Performance Slice,70.0
-56,BestCQI,Business Slice,100.0
-57,NVS,Critical Slice,0.0
-58,NVS,Performance Slice,50.0
-59,NVS,Business Slice,100.0
-60,Proposed_HSRS,Critical Slice,0.0
-61,Proposed_HSRS,Performance Slice,0.0
-62,Proposed_HSRS,Business Slice,50.0
-63,BestCQI,Critical Slice,50.0
-64,BestCQI,Performance Slice,100.0
+34,Proposed_HSRS,Performance Slice,0.0
+35,Proposed_HSRS,Business Slice,25.0
+36,Optimal ILP,Critical Slice,0.0
+37,Optimal ILP,Performance Slice,0.0
+38,Optimal ILP,Business Slice,0.0
+39,BestCQI,Critical Slice,66.66666666666666
+40,BestCQI,Performance Slice,60.0
+41,BestCQI,Business Slice,75.0
+42,NVS,Critical Slice,8.333333333333332
+43,NVS,Performance Slice,50.0
+44,NVS,Business Slice,100.0
+45,Proposed_HSRS,Critical Slice,0.0
+46,Proposed_HSRS,Performance Slice,0.0
+47,Proposed_HSRS,Business Slice,50.0
+48,Optimal ILP,Critical Slice,0.0
+49,Optimal ILP,Performance Slice,0.0
+50,Optimal ILP,Business Slice,0.0
+51,BestCQI,Critical Slice,66.66666666666666
+52,BestCQI,Performance Slice,70.0
+53,BestCQI,Business Slice,75.0
+54,NVS,Critical Slice,8.333333333333332
+55,NVS,Performance Slice,50.0
+56,NVS,Business Slice,100.0
+57,Proposed_HSRS,Critical Slice,0.0
+58,Proposed_HSRS,Performance Slice,0.0
+59,Proposed_HSRS,Business Slice,25.0
+60,Optimal ILP,Critical Slice,0.0
+61,Optimal ILP,Performance Slice,0.0
+62,Optimal ILP,Business Slice,0.0
+63,BestCQI,Critical Slice,66.66666666666666
+64,BestCQI,Performance Slice,70.0
 65,BestCQI,Business Slice,75.0
-66,NVS,Critical Slice,0.0
+66,NVS,Critical Slice,8.333333333333332
 67,NVS,Performance Slice,50.0
 68,NVS,Business Slice,100.0
 69,Proposed_HSRS,Critical Slice,0.0
-70,Proposed_HSRS,Performance Slice,0.0
-71,Proposed_HSRS,Business Slice,50.0
-72,BestCQI,Critical Slice,50.0
-73,BestCQI,Performance Slice,60.0
-74,BestCQI,Business Slice,75.0
-75,NVS,Critical Slice,0.0
-76,NVS,Performance Slice,50.0
-77,NVS,Business Slice,100.0
-78,Proposed_HSRS,Critical Slice,0.0
-79,Proposed_HSRS,Performance Slice,0.0
-80,Proposed_HSRS,Business Slice,50.0
-81,BestCQI,Critical Slice,50.0
-82,BestCQI,Performance Slice,80.0
-83,BestCQI,Business Slice,100.0
-84,NVS,Critical Slice,0.0
-85,NVS,Performance Slice,50.0
-86,NVS,Business Slice,100.0
-87,Proposed_HSRS,Critical Slice,0.0
-88,Proposed_HSRS,Performance Slice,0.0
-89,Proposed_HSRS,Business Slice,50.0
-90,BestCQI,Critical Slice,16.666666666666664
-91,BestCQI,Performance Slice,50.0
-92,BestCQI,Business Slice,100.0
-93,NVS,Critical Slice,0.0
-94,NVS,Performance Slice,50.0
-95,NVS,Business Slice,100.0
-96,Proposed_HSRS,Critical Slice,0.0
-97,Proposed_HSRS,Performance Slice,0.0
-98,Proposed_HSRS,Business Slice,50.0
-99,BestCQI,Critical Slice,33.33333333333333
-100,BestCQI,Performance Slice,60.0
-101,BestCQI,Business Slice,75.0
-102,NVS,Critical Slice,0.0
+70,Proposed_HSRS,Performance Slice,20.0
+71,Proposed_HSRS,Business Slice,0.0
+72,Optimal ILP,Critical Slice,0.0
+73,Optimal ILP,Performance Slice,0.0
+74,Optimal ILP,Business Slice,0.0
+75,BestCQI,Critical Slice,66.66666666666666
+76,BestCQI,Performance Slice,50.0
+77,BestCQI,Business Slice,75.0
+78,NVS,Critical Slice,8.333333333333332
+79,NVS,Performance Slice,50.0
+80,NVS,Business Slice,100.0
+81,Proposed_HSRS,Critical Slice,0.0
+82,Proposed_HSRS,Performance Slice,20.0
+83,Proposed_HSRS,Business Slice,25.0
+84,Optimal ILP,Critical Slice,0.0
+85,Optimal ILP,Performance Slice,0.0
+86,Optimal ILP,Business Slice,0.0
+87,BestCQI,Critical Slice,66.66666666666666
+88,BestCQI,Performance Slice,50.0
+89,BestCQI,Business Slice,75.0
+90,NVS,Critical Slice,0.0
+91,NVS,Performance Slice,50.0
+92,NVS,Business Slice,100.0
+93,Proposed_HSRS,Critical Slice,0.0
+94,Proposed_HSRS,Performance Slice,0.0
+95,Proposed_HSRS,Business Slice,25.0
+96,Optimal ILP,Critical Slice,0.0
+97,Optimal ILP,Performance Slice,0.0
+98,Optimal ILP,Business Slice,0.0
+99,BestCQI,Critical Slice,58.333333333333336
+100,BestCQI,Performance Slice,40.0
+101,BestCQI,Business Slice,50.0
+102,NVS,Critical Slice,16.666666666666664
 103,NVS,Performance Slice,50.0
 104,NVS,Business Slice,100.0
 105,Proposed_HSRS,Critical Slice,0.0
 106,Proposed_HSRS,Performance Slice,0.0
-107,Proposed_HSRS,Business Slice,50.0
-108,BestCQI,Critical Slice,33.33333333333333
-109,BestCQI,Performance Slice,80.0
-110,BestCQI,Business Slice,100.0
-111,NVS,Critical Slice,0.0
-112,NVS,Performance Slice,50.0
-113,NVS,Business Slice,100.0
-114,Proposed_HSRS,Critical Slice,0.0
-115,Proposed_HSRS,Performance Slice,0.0
-116,Proposed_HSRS,Business Slice,50.0
-117,BestCQI,Critical Slice,66.66666666666666
-118,BestCQI,Performance Slice,80.0
-119,BestCQI,Business Slice,75.0
-120,NVS,Critical Slice,0.0
-121,NVS,Performance Slice,50.0
-122,NVS,Business Slice,100.0
-123,Proposed_HSRS,Critical Slice,0.0
-124,Proposed_HSRS,Performance Slice,0.0
-125,Proposed_HSRS,Business Slice,50.0
-126,BestCQI,Critical Slice,50.0
-127,BestCQI,Performance Slice,80.0
-128,BestCQI,Business Slice,75.0
-129,NVS,Critical Slice,0.0
-130,NVS,Performance Slice,50.0
-131,NVS,Business Slice,100.0
-132,Proposed_HSRS,Critical Slice,0.0
-133,Proposed_HSRS,Performance Slice,0.0
-134,Proposed_HSRS,Business Slice,25.0
-135,BestCQI,Critical Slice,66.66666666666666
+107,Proposed_HSRS,Business Slice,0.0
+108,Optimal ILP,Critical Slice,0.0
+109,Optimal ILP,Performance Slice,0.0
+110,Optimal ILP,Business Slice,0.0
+111,BestCQI,Critical Slice,66.66666666666666
+112,BestCQI,Performance Slice,70.0
+113,BestCQI,Business Slice,75.0
+114,NVS,Critical Slice,25.0
+115,NVS,Performance Slice,50.0
+116,NVS,Business Slice,100.0
+117,Proposed_HSRS,Critical Slice,0.0
+118,Proposed_HSRS,Performance Slice,0.0
+119,Proposed_HSRS,Business Slice,0.0
+120,Optimal ILP,Critical Slice,0.0
+121,Optimal ILP,Performance Slice,0.0
+122,Optimal ILP,Business Slice,25.0
+123,BestCQI,Critical Slice,83.33333333333334
+124,BestCQI,Performance Slice,40.0
+125,BestCQI,Business Slice,75.0
+126,NVS,Critical Slice,8.333333333333332
+127,NVS,Performance Slice,50.0
+128,NVS,Business Slice,100.0
+129,Proposed_HSRS,Critical Slice,0.0
+130,Proposed_HSRS,Performance Slice,0.0
+131,Proposed_HSRS,Business Slice,0.0
+132,Optimal ILP,Critical Slice,0.0
+133,Optimal ILP,Performance Slice,0.0
+134,Optimal ILP,Business Slice,0.0
+135,BestCQI,Critical Slice,83.33333333333334
 136,BestCQI,Performance Slice,70.0
 137,BestCQI,Business Slice,50.0
-138,NVS,Critical Slice,0.0
+138,NVS,Critical Slice,8.333333333333332
 139,NVS,Performance Slice,50.0
 140,NVS,Business Slice,100.0
 141,Proposed_HSRS,Critical Slice,0.0
 142,Proposed_HSRS,Performance Slice,0.0
-143,Proposed_HSRS,Business Slice,25.0
-144,BestCQI,Critical Slice,83.33333333333334
-145,BestCQI,Performance Slice,50.0
-146,BestCQI,Business Slice,75.0
-147,NVS,Critical Slice,0.0
-148,NVS,Performance Slice,50.0
-149,NVS,Business Slice,100.0
-150,Proposed_HSRS,Critical Slice,0.0
-151,Proposed_HSRS,Performance Slice,0.0
-152,Proposed_HSRS,Business Slice,25.0
-153,BestCQI,Critical Slice,33.33333333333333
-154,BestCQI,Performance Slice,60.0
-155,BestCQI,Business Slice,50.0
-156,NVS,Critical Slice,0.0
-157,NVS,Performance Slice,50.0
-158,NVS,Business Slice,100.0
-159,Proposed_HSRS,Critical Slice,0.0
-160,Proposed_HSRS,Performance Slice,0.0
-161,Proposed_HSRS,Business Slice,25.0
-162,BestCQI,Critical Slice,58.333333333333336
-163,BestCQI,Performance Slice,80.0
-164,BestCQI,Business Slice,75.0
-165,NVS,Critical Slice,0.0
-166,NVS,Performance Slice,50.0
-167,NVS,Business Slice,100.0
-168,Proposed_HSRS,Critical Slice,0.0
-169,Proposed_HSRS,Performance Slice,0.0
-170,Proposed_HSRS,Business Slice,25.0
-171,BestCQI,Critical Slice,58.333333333333336
-172,BestCQI,Performance Slice,80.0
+143,Proposed_HSRS,Business Slice,0.0
+144,Optimal ILP,Critical Slice,0.0
+145,Optimal ILP,Performance Slice,0.0
+146,Optimal ILP,Business Slice,0.0
+147,BestCQI,Critical Slice,83.33333333333334
+148,BestCQI,Performance Slice,90.0
+149,BestCQI,Business Slice,50.0
+150,NVS,Critical Slice,0.0
+151,NVS,Performance Slice,50.0
+152,NVS,Business Slice,100.0
+153,Proposed_HSRS,Critical Slice,0.0
+154,Proposed_HSRS,Performance Slice,0.0
+155,Proposed_HSRS,Business Slice,0.0
+156,Optimal ILP,Critical Slice,0.0
+157,Optimal ILP,Performance Slice,0.0
+158,Optimal ILP,Business Slice,0.0
+159,BestCQI,Critical Slice,83.33333333333334
+160,BestCQI,Performance Slice,100.0
+161,BestCQI,Business Slice,75.0
+162,NVS,Critical Slice,0.0
+163,NVS,Performance Slice,50.0
+164,NVS,Business Slice,100.0
+165,Proposed_HSRS,Critical Slice,0.0
+166,Proposed_HSRS,Performance Slice,0.0
+167,Proposed_HSRS,Business Slice,0.0
+168,Optimal ILP,Critical Slice,0.0
+169,Optimal ILP,Performance Slice,0.0
+170,Optimal ILP,Business Slice,0.0
+171,BestCQI,Critical Slice,83.33333333333334
+172,BestCQI,Performance Slice,70.0
 173,BestCQI,Business Slice,75.0
-174,NVS,Critical Slice,0.0
+174,NVS,Critical Slice,16.666666666666664
 175,NVS,Performance Slice,50.0
 176,NVS,Business Slice,100.0
 177,Proposed_HSRS,Critical Slice,0.0
 178,Proposed_HSRS,Performance Slice,0.0
-179,Proposed_HSRS,Business Slice,25.0
-180,BestCQI,Critical Slice,50.0
-181,BestCQI,Performance Slice,60.0
-182,BestCQI,Business Slice,50.0
-183,NVS,Critical Slice,0.0
-184,NVS,Performance Slice,50.0
-185,NVS,Business Slice,100.0
-186,Proposed_HSRS,Critical Slice,0.0
-187,Proposed_HSRS,Performance Slice,0.0
-188,Proposed_HSRS,Business Slice,25.0
-189,BestCQI,Critical Slice,50.0
-190,BestCQI,Performance Slice,80.0
-191,BestCQI,Business Slice,75.0
-192,NVS,Critical Slice,0.0
-193,NVS,Performance Slice,50.0
-194,NVS,Business Slice,100.0
-195,Proposed_HSRS,Critical Slice,0.0
-196,Proposed_HSRS,Performance Slice,0.0
-197,Proposed_HSRS,Business Slice,25.0
-198,BestCQI,Critical Slice,66.66666666666666
-199,BestCQI,Performance Slice,60.0
-200,BestCQI,Business Slice,100.0
-201,NVS,Critical Slice,0.0
-202,NVS,Performance Slice,50.0
-203,NVS,Business Slice,100.0
-204,Proposed_HSRS,Critical Slice,0.0
-205,Proposed_HSRS,Performance Slice,0.0
-206,Proposed_HSRS,Business Slice,25.0
-207,BestCQI,Critical Slice,83.33333333333334
-208,BestCQI,Performance Slice,50.0
-209,BestCQI,Business Slice,100.0
+179,Proposed_HSRS,Business Slice,0.0
+180,Optimal ILP,Critical Slice,0.0
+181,Optimal ILP,Performance Slice,0.0
+182,Optimal ILP,Business Slice,0.0
+183,BestCQI,Critical Slice,83.33333333333334
+184,BestCQI,Performance Slice,50.0
+185,BestCQI,Business Slice,75.0
+186,NVS,Critical Slice,16.666666666666664
+187,NVS,Performance Slice,50.0
+188,NVS,Business Slice,100.0
+189,Proposed_HSRS,Critical Slice,0.0
+190,Proposed_HSRS,Performance Slice,0.0
+191,Proposed_HSRS,Business Slice,0.0
+192,Optimal ILP,Critical Slice,0.0
+193,Optimal ILP,Performance Slice,0.0
+194,Optimal ILP,Business Slice,0.0
+195,BestCQI,Critical Slice,100.0
+196,BestCQI,Performance Slice,60.0
+197,BestCQI,Business Slice,75.0
+198,NVS,Critical Slice,0.0
+199,NVS,Performance Slice,50.0
+200,NVS,Business Slice,100.0
+201,Proposed_HSRS,Critical Slice,0.0
+202,Proposed_HSRS,Performance Slice,0.0
+203,Proposed_HSRS,Business Slice,0.0
+204,Optimal ILP,Critical Slice,0.0
+205,Optimal ILP,Performance Slice,0.0
+206,Optimal ILP,Business Slice,0.0
+207,BestCQI,Critical Slice,66.66666666666666
+208,BestCQI,Performance Slice,70.0
+209,BestCQI,Business Slice,75.0
 210,NVS,Critical Slice,0.0
 211,NVS,Performance Slice,50.0
 212,NVS,Business Slice,100.0
 213,Proposed_HSRS,Critical Slice,0.0
 214,Proposed_HSRS,Performance Slice,0.0
 215,Proposed_HSRS,Business Slice,25.0
-216,BestCQI,Critical Slice,83.33333333333334
-217,BestCQI,Performance Slice,60.0
-218,BestCQI,Business Slice,75.0
-219,NVS,Critical Slice,0.0
-220,NVS,Performance Slice,50.0
-221,NVS,Business Slice,100.0
-222,Proposed_HSRS,Critical Slice,0.0
-223,Proposed_HSRS,Performance Slice,0.0
-224,Proposed_HSRS,Business Slice,25.0
+216,Optimal ILP,Critical Slice,0.0
+217,Optimal ILP,Performance Slice,0.0
+218,Optimal ILP,Business Slice,50.0
+219,BestCQI,Critical Slice,83.33333333333334
+220,BestCQI,Performance Slice,80.0
+221,BestCQI,Business Slice,50.0
+222,NVS,Critical Slice,0.0
+223,NVS,Performance Slice,50.0
+224,NVS,Business Slice,100.0
+225,Proposed_HSRS,Critical Slice,0.0
+226,Proposed_HSRS,Performance Slice,0.0
+227,Proposed_HSRS,Business Slice,25.0
+228,Optimal ILP,Critical Slice,0.0
+229,Optimal ILP,Performance Slice,0.0
+230,Optimal ILP,Business Slice,0.0
+231,BestCQI,Critical Slice,100.0
+232,BestCQI,Performance Slice,50.0
+233,BestCQI,Business Slice,75.0
+234,NVS,Critical Slice,8.333333333333332
+235,NVS,Performance Slice,50.0
+236,NVS,Business Slice,100.0
+237,Proposed_HSRS,Critical Slice,0.0
+238,Proposed_HSRS,Performance Slice,0.0
+239,Proposed_HSRS,Business Slice,25.0
+240,Optimal ILP,Critical Slice,0.0
+241,Optimal ILP,Performance Slice,0.0
+242,Optimal ILP,Business Slice,0.0
+243,BestCQI,Critical Slice,83.33333333333334
+244,BestCQI,Performance Slice,20.0
+245,BestCQI,Business Slice,75.0
+246,NVS,Critical Slice,16.666666666666664
+247,NVS,Performance Slice,50.0
+248,NVS,Business Slice,100.0
+249,Proposed_HSRS,Critical Slice,0.0
+250,Proposed_HSRS,Performance Slice,0.0
+251,Proposed_HSRS,Business Slice,25.0
+252,Optimal ILP,Critical Slice,0.0
+253,Optimal ILP,Performance Slice,0.0
+254,Optimal ILP,Business Slice,0.0
+255,BestCQI,Critical Slice,100.0
+256,BestCQI,Performance Slice,70.0
+257,BestCQI,Business Slice,75.0
+258,NVS,Critical Slice,8.333333333333332
+259,NVS,Performance Slice,50.0
+260,NVS,Business Slice,100.0
+261,Proposed_HSRS,Critical Slice,0.0
+262,Proposed_HSRS,Performance Slice,0.0
+263,Proposed_HSRS,Business Slice,0.0
+264,Optimal ILP,Critical Slice,0.0
+265,Optimal ILP,Performance Slice,0.0
+266,Optimal ILP,Business Slice,0.0
+267,BestCQI,Critical Slice,83.33333333333334
+268,BestCQI,Performance Slice,60.0
+269,BestCQI,Business Slice,75.0
+270,NVS,Critical Slice,8.333333333333332
+271,NVS,Performance Slice,50.0
+272,NVS,Business Slice,100.0
+273,Proposed_HSRS,Critical Slice,0.0
+274,Proposed_HSRS,Performance Slice,0.0
+275,Proposed_HSRS,Business Slice,0.0
+276,Optimal ILP,Critical Slice,0.0
+277,Optimal ILP,Performance Slice,0.0
+278,Optimal ILP,Business Slice,0.0
+279,BestCQI,Critical Slice,100.0
+280,BestCQI,Performance Slice,20.0
+281,BestCQI,Business Slice,75.0
+282,NVS,Critical Slice,0.0
+283,NVS,Performance Slice,50.0
+284,NVS,Business Slice,100.0
+285,Proposed_HSRS,Critical Slice,0.0
+286,Proposed_HSRS,Performance Slice,0.0
+287,Proposed_HSRS,Business Slice,0.0
+288,Optimal ILP,Critical Slice,0.0
+289,Optimal ILP,Performance Slice,0.0
+290,Optimal ILP,Business Slice,0.0
+291,BestCQI,Critical Slice,100.0
+292,BestCQI,Performance Slice,30.0
+293,BestCQI,Business Slice,75.0
+294,NVS,Critical Slice,0.0
+295,NVS,Performance Slice,50.0
+296,NVS,Business Slice,100.0
+297,Proposed_HSRS,Critical Slice,0.0
+298,Proposed_HSRS,Performance Slice,0.0
+299,Proposed_HSRS,Business Slice,0.0
+300,Optimal ILP,Critical Slice,0.0
+301,Optimal ILP,Performance Slice,0.0
+302,Optimal ILP,Business Slice,0.0
+303,BestCQI,Critical Slice,66.66666666666666
+304,BestCQI,Performance Slice,50.0
+305,BestCQI,Business Slice,75.0
+306,NVS,Critical Slice,0.0
+307,NVS,Performance Slice,50.0
+308,NVS,Business Slice,100.0
+309,Proposed_HSRS,Critical Slice,0.0
+310,Proposed_HSRS,Performance Slice,0.0
+311,Proposed_HSRS,Business Slice,0.0
+312,Optimal ILP,Critical Slice,0.0
+313,Optimal ILP,Performance Slice,0.0
+314,Optimal ILP,Business Slice,0.0
+315,BestCQI,Critical Slice,83.33333333333334
+316,BestCQI,Performance Slice,70.0
+317,BestCQI,Business Slice,50.0
+318,NVS,Critical Slice,0.0
+319,NVS,Performance Slice,50.0
+320,NVS,Business Slice,100.0
+321,Proposed_HSRS,Critical Slice,0.0
+322,Proposed_HSRS,Performance Slice,0.0
+323,Proposed_HSRS,Business Slice,0.0
+324,Optimal ILP,Critical Slice,0.0
+325,Optimal ILP,Performance Slice,0.0
+326,Optimal ILP,Business Slice,0.0
+327,BestCQI,Critical Slice,100.0
+328,BestCQI,Performance Slice,60.0
+329,BestCQI,Business Slice,50.0
+330,NVS,Critical Slice,8.333333333333332
+331,NVS,Performance Slice,50.0
+332,NVS,Business Slice,100.0
+333,Proposed_HSRS,Critical Slice,0.0
+334,Proposed_HSRS,Performance Slice,0.0
+335,Proposed_HSRS,Business Slice,0.0
+336,Optimal ILP,Critical Slice,0.0
+337,Optimal ILP,Performance Slice,0.0
+338,Optimal ILP,Business Slice,0.0
+339,BestCQI,Critical Slice,66.66666666666666
+340,BestCQI,Performance Slice,60.0
+341,BestCQI,Business Slice,75.0
+342,NVS,Critical Slice,0.0
+343,NVS,Performance Slice,50.0
+344,NVS,Business Slice,100.0
+345,Proposed_HSRS,Critical Slice,0.0
+346,Proposed_HSRS,Performance Slice,0.0
+347,Proposed_HSRS,Business Slice,0.0
+348,Optimal ILP,Critical Slice,0.0
+349,Optimal ILP,Performance Slice,0.0
+350,Optimal ILP,Business Slice,0.0
+351,BestCQI,Critical Slice,83.33333333333334
+352,BestCQI,Performance Slice,70.0
+353,BestCQI,Business Slice,25.0
+354,NVS,Critical Slice,8.333333333333332
+355,NVS,Performance Slice,50.0
+356,NVS,Business Slice,100.0
+357,Proposed_HSRS,Critical Slice,0.0
+358,Proposed_HSRS,Performance Slice,0.0
+359,Proposed_HSRS,Business Slice,0.0
+360,Optimal ILP,Critical Slice,0.0
+361,Optimal ILP,Performance Slice,0.0
+362,Optimal ILP,Business Slice,0.0
+363,BestCQI,Critical Slice,83.33333333333334
+364,BestCQI,Performance Slice,80.0
+365,BestCQI,Business Slice,25.0
+366,NVS,Critical Slice,0.0
+367,NVS,Performance Slice,50.0
+368,NVS,Business Slice,100.0
+369,Proposed_HSRS,Critical Slice,0.0
+370,Proposed_HSRS,Performance Slice,0.0
+371,Proposed_HSRS,Business Slice,0.0
+372,Optimal ILP,Critical Slice,0.0
+373,Optimal ILP,Performance Slice,0.0
+374,Optimal ILP,Business Slice,0.0
+375,BestCQI,Critical Slice,66.66666666666666
+376,BestCQI,Performance Slice,70.0
+377,BestCQI,Business Slice,100.0
+378,NVS,Critical Slice,0.0
+379,NVS,Performance Slice,50.0
+380,NVS,Business Slice,100.0
+381,Proposed_HSRS,Critical Slice,0.0
+382,Proposed_HSRS,Performance Slice,20.0
+383,Proposed_HSRS,Business Slice,0.0
+384,Optimal ILP,Critical Slice,0.0
+385,Optimal ILP,Performance Slice,0.0
+386,Optimal ILP,Business Slice,0.0
+387,BestCQI,Critical Slice,100.0
+388,BestCQI,Performance Slice,40.0
+389,BestCQI,Business Slice,100.0
+390,NVS,Critical Slice,0.0
+391,NVS,Performance Slice,50.0
+392,NVS,Business Slice,100.0
+393,Proposed_HSRS,Critical Slice,0.0
+394,Proposed_HSRS,Performance Slice,0.0
+395,Proposed_HSRS,Business Slice,0.0
+396,Optimal ILP,Critical Slice,0.0
+397,Optimal ILP,Performance Slice,0.0
+398,Optimal ILP,Business Slice,0.0
+399,BestCQI,Critical Slice,66.66666666666666
+400,BestCQI,Performance Slice,80.0
+401,BestCQI,Business Slice,75.0
+402,NVS,Critical Slice,8.333333333333332
+403,NVS,Performance Slice,50.0
+404,NVS,Business Slice,100.0
+405,Proposed_HSRS,Critical Slice,0.0
+406,Proposed_HSRS,Performance Slice,40.0
+407,Proposed_HSRS,Business Slice,25.0
+408,Optimal ILP,Critical Slice,0.0
+409,Optimal ILP,Performance Slice,0.0
+410,Optimal ILP,Business Slice,25.0
+411,BestCQI,Critical Slice,50.0
+412,BestCQI,Performance Slice,50.0
+413,BestCQI,Business Slice,75.0
+414,NVS,Critical Slice,0.0
+415,NVS,Performance Slice,50.0
+416,NVS,Business Slice,100.0
+417,Proposed_HSRS,Critical Slice,0.0
+418,Proposed_HSRS,Performance Slice,10.0
+419,Proposed_HSRS,Business Slice,25.0
+420,Optimal ILP,Critical Slice,0.0
+421,Optimal ILP,Performance Slice,0.0
+422,Optimal ILP,Business Slice,0.0
+423,BestCQI,Critical Slice,83.33333333333334
+424,BestCQI,Performance Slice,60.0
+425,BestCQI,Business Slice,75.0
+426,NVS,Critical Slice,8.333333333333332
+427,NVS,Performance Slice,50.0
+428,NVS,Business Slice,100.0
+429,Proposed_HSRS,Critical Slice,0.0
+430,Proposed_HSRS,Performance Slice,0.0
+431,Proposed_HSRS,Business Slice,25.0
+432,Optimal ILP,Critical Slice,0.0
+433,Optimal ILP,Performance Slice,0.0
+434,Optimal ILP,Business Slice,50.0
+435,BestCQI,Critical Slice,66.66666666666666
+436,BestCQI,Performance Slice,60.0
+437,BestCQI,Business Slice,75.0
+438,NVS,Critical Slice,0.0
+439,NVS,Performance Slice,50.0
+440,NVS,Business Slice,100.0
+441,Proposed_HSRS,Critical Slice,0.0
+442,Proposed_HSRS,Performance Slice,0.0
+443,Proposed_HSRS,Business Slice,25.0
+444,Optimal ILP,Critical Slice,0.0
+445,Optimal ILP,Performance Slice,0.0
+446,Optimal ILP,Business Slice,0.0
+447,BestCQI,Critical Slice,83.33333333333334
+448,BestCQI,Performance Slice,80.0
+449,BestCQI,Business Slice,50.0
+450,NVS,Critical Slice,0.0
+451,NVS,Performance Slice,50.0
+452,NVS,Business Slice,100.0
+453,Proposed_HSRS,Critical Slice,0.0
+454,Proposed_HSRS,Performance Slice,0.0
+455,Proposed_HSRS,Business Slice,0.0
+456,Optimal ILP,Critical Slice,0.0
+457,Optimal ILP,Performance Slice,0.0
+458,Optimal ILP,Business Slice,0.0
+459,BestCQI,Critical Slice,50.0
+460,BestCQI,Performance Slice,50.0
+461,BestCQI,Business Slice,75.0
+462,NVS,Critical Slice,8.333333333333332
+463,NVS,Performance Slice,50.0
+464,NVS,Business Slice,100.0
+465,Proposed_HSRS,Critical Slice,0.0
+466,Proposed_HSRS,Performance Slice,0.0
+467,Proposed_HSRS,Business Slice,25.0
+468,Optimal ILP,Critical Slice,0.0
+469,Optimal ILP,Performance Slice,0.0
+470,Optimal ILP,Business Slice,75.0
+471,BestCQI,Critical Slice,50.0
+472,BestCQI,Performance Slice,60.0
+473,BestCQI,Business Slice,100.0
+474,NVS,Critical Slice,0.0
+475,NVS,Performance Slice,50.0
+476,NVS,Business Slice,100.0
+477,Proposed_HSRS,Critical Slice,0.0
+478,Proposed_HSRS,Performance Slice,20.0
+479,Proposed_HSRS,Business Slice,25.0
+480,Optimal ILP,Critical Slice,0.0
+481,Optimal ILP,Performance Slice,0.0
+482,Optimal ILP,Business Slice,0.0
+483,BestCQI,Critical Slice,33.33333333333333
+484,BestCQI,Performance Slice,70.0
+485,BestCQI,Business Slice,75.0
+486,NVS,Critical Slice,0.0
+487,NVS,Performance Slice,50.0
+488,NVS,Business Slice,100.0
+489,Proposed_HSRS,Critical Slice,0.0
+490,Proposed_HSRS,Performance Slice,10.0
+491,Proposed_HSRS,Business Slice,0.0
+492,Optimal ILP,Critical Slice,0.0
+493,Optimal ILP,Performance Slice,0.0
+494,Optimal ILP,Business Slice,0.0
+495,BestCQI,Critical Slice,66.66666666666666
+496,BestCQI,Performance Slice,80.0
+497,BestCQI,Business Slice,75.0
+498,NVS,Critical Slice,0.0
+499,NVS,Performance Slice,50.0
+500,NVS,Business Slice,100.0
+501,Proposed_HSRS,Critical Slice,0.0
+502,Proposed_HSRS,Performance Slice,0.0
+503,Proposed_HSRS,Business Slice,25.0
+504,Optimal ILP,Critical Slice,0.0
+505,Optimal ILP,Performance Slice,0.0
+506,Optimal ILP,Business Slice,0.0
+507,BestCQI,Critical Slice,33.33333333333333
+508,BestCQI,Performance Slice,70.0
+509,BestCQI,Business Slice,75.0
+510,NVS,Critical Slice,0.0
+511,NVS,Performance Slice,50.0
+512,NVS,Business Slice,100.0
+513,Proposed_HSRS,Critical Slice,0.0
+514,Proposed_HSRS,Performance Slice,0.0
+515,Proposed_HSRS,Business Slice,25.0
+516,Optimal ILP,Critical Slice,0.0
+517,Optimal ILP,Performance Slice,0.0
+518,Optimal ILP,Business Slice,75.0
+519,BestCQI,Critical Slice,66.66666666666666
+520,BestCQI,Performance Slice,70.0
+521,BestCQI,Business Slice,100.0
+522,NVS,Critical Slice,0.0
+523,NVS,Performance Slice,50.0
+524,NVS,Business Slice,100.0
+525,Proposed_HSRS,Critical Slice,0.0
+526,Proposed_HSRS,Performance Slice,10.0
+527,Proposed_HSRS,Business Slice,25.0
+528,Optimal ILP,Critical Slice,0.0
+529,Optimal ILP,Performance Slice,0.0
+530,Optimal ILP,Business Slice,0.0
+531,BestCQI,Critical Slice,33.33333333333333
+532,BestCQI,Performance Slice,80.0
+533,BestCQI,Business Slice,50.0
+534,NVS,Critical Slice,0.0
+535,NVS,Performance Slice,50.0
+536,NVS,Business Slice,100.0
+537,Proposed_HSRS,Critical Slice,0.0
+538,Proposed_HSRS,Performance Slice,20.0
+539,Proposed_HSRS,Business Slice,25.0
+540,Optimal ILP,Critical Slice,0.0
+541,Optimal ILP,Performance Slice,0.0
+542,Optimal ILP,Business Slice,100.0
+543,BestCQI,Critical Slice,33.33333333333333
+544,BestCQI,Performance Slice,60.0
+545,BestCQI,Business Slice,50.0
+546,NVS,Critical Slice,0.0
+547,NVS,Performance Slice,50.0
+548,NVS,Business Slice,100.0
+549,Proposed_HSRS,Critical Slice,0.0
+550,Proposed_HSRS,Performance Slice,0.0
+551,Proposed_HSRS,Business Slice,25.0
+552,Optimal ILP,Critical Slice,0.0
+553,Optimal ILP,Performance Slice,0.0
+554,Optimal ILP,Business Slice,0.0
+555,BestCQI,Critical Slice,33.33333333333333
+556,BestCQI,Performance Slice,60.0
+557,BestCQI,Business Slice,75.0
+558,NVS,Critical Slice,0.0
+559,NVS,Performance Slice,50.0
+560,NVS,Business Slice,100.0
+561,Proposed_HSRS,Critical Slice,0.0
+562,Proposed_HSRS,Performance Slice,0.0
+563,Proposed_HSRS,Business Slice,25.0
+564,Optimal ILP,Critical Slice,0.0
+565,Optimal ILP,Performance Slice,0.0
+566,Optimal ILP,Business Slice,75.0
+567,BestCQI,Critical Slice,50.0
+568,BestCQI,Performance Slice,60.0
+569,BestCQI,Business Slice,100.0
+570,NVS,Critical Slice,0.0
+571,NVS,Performance Slice,50.0
+572,NVS,Business Slice,100.0
+573,Proposed_HSRS,Critical Slice,0.0
+574,Proposed_HSRS,Performance Slice,0.0
+575,Proposed_HSRS,Business Slice,25.0
+576,Optimal ILP,Critical Slice,0.0
+577,Optimal ILP,Performance Slice,0.0
+578,Optimal ILP,Business Slice,100.0
+579,BestCQI,Critical Slice,50.0
+580,BestCQI,Performance Slice,60.0
+581,BestCQI,Business Slice,75.0
+582,NVS,Critical Slice,0.0
+583,NVS,Performance Slice,50.0
+584,NVS,Business Slice,100.0
+585,Proposed_HSRS,Critical Slice,0.0
+586,Proposed_HSRS,Performance Slice,20.0
+587,Proposed_HSRS,Business Slice,25.0
+588,Optimal ILP,Critical Slice,0.0
+589,Optimal ILP,Performance Slice,0.0
+590,Optimal ILP,Business Slice,75.0
+591,BestCQI,Critical Slice,66.66666666666666
+592,BestCQI,Performance Slice,60.0
+593,BestCQI,Business Slice,75.0
+594,NVS,Critical Slice,0.0
+595,NVS,Performance Slice,50.0
+596,NVS,Business Slice,100.0
+597,Proposed_HSRS,Critical Slice,0.0
+598,Proposed_HSRS,Performance Slice,40.0
+599,Proposed_HSRS,Business Slice,25.0
+600,Optimal ILP,Critical Slice,0.0
+601,Optimal ILP,Performance Slice,0.0
+602,Optimal ILP,Business Slice,75.0
+603,BestCQI,Critical Slice,16.666666666666664
+604,BestCQI,Performance Slice,60.0
+605,BestCQI,Business Slice,75.0
+606,NVS,Critical Slice,0.0
+607,NVS,Performance Slice,50.0
+608,NVS,Business Slice,100.0
+609,Proposed_HSRS,Critical Slice,0.0
+610,Proposed_HSRS,Performance Slice,20.0
+611,Proposed_HSRS,Business Slice,0.0
+612,Optimal ILP,Critical Slice,0.0
+613,Optimal ILP,Performance Slice,0.0
+614,Optimal ILP,Business Slice,75.0
+615,BestCQI,Critical Slice,33.33333333333333
+616,BestCQI,Performance Slice,80.0
+617,BestCQI,Business Slice,75.0
+618,NVS,Critical Slice,0.0
+619,NVS,Performance Slice,50.0
+620,NVS,Business Slice,100.0
+621,Proposed_HSRS,Critical Slice,0.0
+622,Proposed_HSRS,Performance Slice,0.0
+623,Proposed_HSRS,Business Slice,50.0
+624,Optimal ILP,Critical Slice,0.0
+625,Optimal ILP,Performance Slice,0.0
+626,Optimal ILP,Business Slice,50.0
+627,BestCQI,Critical Slice,41.66666666666667
+628,BestCQI,Performance Slice,80.0
+629,BestCQI,Business Slice,75.0
+630,NVS,Critical Slice,0.0
+631,NVS,Performance Slice,50.0
+632,NVS,Business Slice,100.0
+633,Proposed_HSRS,Critical Slice,0.0
+634,Proposed_HSRS,Performance Slice,0.0
+635,Proposed_HSRS,Business Slice,50.0
+636,Optimal ILP,Critical Slice,0.0
+637,Optimal ILP,Performance Slice,0.0
+638,Optimal ILP,Business Slice,50.0
+639,BestCQI,Critical Slice,50.0
+640,BestCQI,Performance Slice,80.0
+641,BestCQI,Business Slice,75.0
+642,NVS,Critical Slice,0.0
+643,NVS,Performance Slice,50.0
+644,NVS,Business Slice,100.0
+645,Proposed_HSRS,Critical Slice,0.0
+646,Proposed_HSRS,Performance Slice,0.0
+647,Proposed_HSRS,Business Slice,50.0
+648,Optimal ILP,Critical Slice,0.0
+649,Optimal ILP,Performance Slice,0.0
+650,Optimal ILP,Business Slice,25.0
+651,BestCQI,Critical Slice,16.666666666666664
+652,BestCQI,Performance Slice,70.0
+653,BestCQI,Business Slice,100.0
+654,NVS,Critical Slice,0.0
+655,NVS,Performance Slice,50.0
+656,NVS,Business Slice,100.0
+657,Proposed_HSRS,Critical Slice,0.0
+658,Proposed_HSRS,Performance Slice,0.0
+659,Proposed_HSRS,Business Slice,50.0
+660,Optimal ILP,Critical Slice,0.0
+661,Optimal ILP,Performance Slice,0.0
+662,Optimal ILP,Business Slice,75.0
+663,BestCQI,Critical Slice,83.33333333333334
+664,BestCQI,Performance Slice,70.0
+665,BestCQI,Business Slice,100.0
+666,NVS,Critical Slice,0.0
+667,NVS,Performance Slice,50.0
+668,NVS,Business Slice,100.0
+669,Proposed_HSRS,Critical Slice,0.0
+670,Proposed_HSRS,Performance Slice,0.0
+671,Proposed_HSRS,Business Slice,50.0
+672,Optimal ILP,Critical Slice,0.0
+673,Optimal ILP,Performance Slice,0.0
+674,Optimal ILP,Business Slice,50.0
+675,BestCQI,Critical Slice,66.66666666666666
+676,BestCQI,Performance Slice,60.0
+677,BestCQI,Business Slice,75.0
+678,NVS,Critical Slice,0.0
+679,NVS,Performance Slice,50.0
+680,NVS,Business Slice,100.0
+681,Proposed_HSRS,Critical Slice,0.0
+682,Proposed_HSRS,Performance Slice,20.0
+683,Proposed_HSRS,Business Slice,50.0
+684,Optimal ILP,Critical Slice,0.0
+685,Optimal ILP,Performance Slice,0.0
+686,Optimal ILP,Business Slice,75.0
+687,BestCQI,Critical Slice,50.0
+688,BestCQI,Performance Slice,80.0
+689,BestCQI,Business Slice,100.0
+690,NVS,Critical Slice,0.0
+691,NVS,Performance Slice,50.0
+692,NVS,Business Slice,100.0
+693,Proposed_HSRS,Critical Slice,0.0
+694,Proposed_HSRS,Performance Slice,20.0
+695,Proposed_HSRS,Business Slice,50.0
+696,Optimal ILP,Critical Slice,0.0
+697,Optimal ILP,Performance Slice,0.0
+698,Optimal ILP,Business Slice,25.0
+699,BestCQI,Critical Slice,41.66666666666667
+700,BestCQI,Performance Slice,70.0
+701,BestCQI,Business Slice,100.0
+702,NVS,Critical Slice,0.0
+703,NVS,Performance Slice,50.0
+704,NVS,Business Slice,100.0
+705,Proposed_HSRS,Critical Slice,0.0
+706,Proposed_HSRS,Performance Slice,0.0
+707,Proposed_HSRS,Business Slice,50.0
+708,Optimal ILP,Critical Slice,0.0
+709,Optimal ILP,Performance Slice,0.0
+710,Optimal ILP,Business Slice,50.0
+711,BestCQI,Critical Slice,33.33333333333333
+712,BestCQI,Performance Slice,80.0
+713,BestCQI,Business Slice,100.0
+714,NVS,Critical Slice,0.0
+715,NVS,Performance Slice,50.0
+716,NVS,Business Slice,100.0
+717,Proposed_HSRS,Critical Slice,0.0
+718,Proposed_HSRS,Performance Slice,0.0
+719,Proposed_HSRS,Business Slice,50.0
+720,Optimal ILP,Critical Slice,0.0
+721,Optimal ILP,Performance Slice,0.0
+722,Optimal ILP,Business Slice,25.0
+723,BestCQI,Critical Slice,83.33333333333334
+724,BestCQI,Performance Slice,80.0
+725,BestCQI,Business Slice,75.0
+726,NVS,Critical Slice,0.0
+727,NVS,Performance Slice,50.0
+728,NVS,Business Slice,100.0
+729,Proposed_HSRS,Critical Slice,0.0
+730,Proposed_HSRS,Performance Slice,0.0
+731,Proposed_HSRS,Business Slice,50.0
+732,Optimal ILP,Critical Slice,0.0
+733,Optimal ILP,Performance Slice,0.0
+734,Optimal ILP,Business Slice,75.0
+735,BestCQI,Critical Slice,83.33333333333334
+736,BestCQI,Performance Slice,80.0
+737,BestCQI,Business Slice,100.0
+738,NVS,Critical Slice,16.666666666666664
+739,NVS,Performance Slice,50.0
+740,NVS,Business Slice,100.0
+741,Proposed_HSRS,Critical Slice,0.0
+742,Proposed_HSRS,Performance Slice,20.0
+743,Proposed_HSRS,Business Slice,50.0
+744,Optimal ILP,Critical Slice,0.0
+745,Optimal ILP,Performance Slice,0.0
+746,Optimal ILP,Business Slice,50.0
+747,BestCQI,Critical Slice,83.33333333333334
+748,BestCQI,Performance Slice,100.0
+749,BestCQI,Business Slice,75.0
+750,NVS,Critical Slice,16.666666666666664
+751,NVS,Performance Slice,50.0
+752,NVS,Business Slice,100.0
+753,Proposed_HSRS,Critical Slice,0.0
+754,Proposed_HSRS,Performance Slice,20.0
+755,Proposed_HSRS,Business Slice,50.0
+756,Optimal ILP,Critical Slice,0.0
+757,Optimal ILP,Performance Slice,0.0
+758,Optimal ILP,Business Slice,75.0
+759,BestCQI,Critical Slice,66.66666666666666
+760,BestCQI,Performance Slice,70.0
+761,BestCQI,Business Slice,75.0
+762,NVS,Critical Slice,0.0
+763,NVS,Performance Slice,50.0
+764,NVS,Business Slice,100.0
+765,Proposed_HSRS,Critical Slice,0.0
+766,Proposed_HSRS,Performance Slice,0.0
+767,Proposed_HSRS,Business Slice,50.0
+768,Optimal ILP,Critical Slice,0.0
+769,Optimal ILP,Performance Slice,0.0
+770,Optimal ILP,Business Slice,50.0
+771,BestCQI,Critical Slice,50.0
+772,BestCQI,Performance Slice,80.0
+773,BestCQI,Business Slice,75.0
+774,NVS,Critical Slice,33.33333333333333
+775,NVS,Performance Slice,50.0
+776,NVS,Business Slice,100.0
+777,Proposed_HSRS,Critical Slice,0.0
+778,Proposed_HSRS,Performance Slice,20.0
+779,Proposed_HSRS,Business Slice,100.0
+780,Optimal ILP,Critical Slice,0.0
+781,Optimal ILP,Performance Slice,0.0
+782,Optimal ILP,Business Slice,75.0
+783,BestCQI,Critical Slice,66.66666666666666
+784,BestCQI,Performance Slice,80.0
+785,BestCQI,Business Slice,75.0
+786,NVS,Critical Slice,16.666666666666664
+787,NVS,Performance Slice,50.0
+788,NVS,Business Slice,100.0
+789,Proposed_HSRS,Critical Slice,0.0
+790,Proposed_HSRS,Performance Slice,0.0
+791,Proposed_HSRS,Business Slice,75.0
+792,Optimal ILP,Critical Slice,0.0
+793,Optimal ILP,Performance Slice,0.0
+794,Optimal ILP,Business Slice,50.0
+795,BestCQI,Critical Slice,66.66666666666666
+796,BestCQI,Performance Slice,70.0
+797,BestCQI,Business Slice,100.0
+798,NVS,Critical Slice,33.33333333333333
+799,NVS,Performance Slice,50.0
+800,NVS,Business Slice,100.0
+801,Proposed_HSRS,Critical Slice,0.0
+802,Proposed_HSRS,Performance Slice,40.0
+803,Proposed_HSRS,Business Slice,100.0
+804,Optimal ILP,Critical Slice,0.0
+805,Optimal ILP,Performance Slice,0.0
+806,Optimal ILP,Business Slice,25.0
+807,BestCQI,Critical Slice,50.0
+808,BestCQI,Performance Slice,70.0
+809,BestCQI,Business Slice,100.0
+810,NVS,Critical Slice,33.33333333333333
+811,NVS,Performance Slice,50.0
+812,NVS,Business Slice,100.0
+813,Proposed_HSRS,Critical Slice,0.0
+814,Proposed_HSRS,Performance Slice,20.0
+815,Proposed_HSRS,Business Slice,75.0
+816,Optimal ILP,Critical Slice,0.0
+817,Optimal ILP,Performance Slice,0.0
+818,Optimal ILP,Business Slice,75.0
+819,BestCQI,Critical Slice,66.66666666666666
+820,BestCQI,Performance Slice,60.0
+821,BestCQI,Business Slice,100.0
+822,NVS,Critical Slice,16.666666666666664
+823,NVS,Performance Slice,50.0
+824,NVS,Business Slice,100.0
+825,Proposed_HSRS,Critical Slice,0.0
+826,Proposed_HSRS,Performance Slice,0.0
+827,Proposed_HSRS,Business Slice,75.0
+828,Optimal ILP,Critical Slice,0.0
+829,Optimal ILP,Performance Slice,0.0
+830,Optimal ILP,Business Slice,75.0
+831,BestCQI,Critical Slice,50.0
+832,BestCQI,Performance Slice,80.0
+833,BestCQI,Business Slice,100.0
+834,NVS,Critical Slice,0.0
+835,NVS,Performance Slice,50.0
+836,NVS,Business Slice,100.0
+837,Proposed_HSRS,Critical Slice,0.0
+838,Proposed_HSRS,Performance Slice,0.0
+839,Proposed_HSRS,Business Slice,50.0
+840,Optimal ILP,Critical Slice,0.0
+841,Optimal ILP,Performance Slice,0.0
+842,Optimal ILP,Business Slice,75.0
+843,BestCQI,Critical Slice,50.0
+844,BestCQI,Performance Slice,70.0
+845,BestCQI,Business Slice,100.0
+846,NVS,Critical Slice,0.0
+847,NVS,Performance Slice,50.0
+848,NVS,Business Slice,100.0
+849,Proposed_HSRS,Critical Slice,0.0
+850,Proposed_HSRS,Performance Slice,20.0
+851,Proposed_HSRS,Business Slice,50.0
+852,Optimal ILP,Critical Slice,0.0
+853,Optimal ILP,Performance Slice,0.0
+854,Optimal ILP,Business Slice,25.0
+855,BestCQI,Critical Slice,50.0
+856,BestCQI,Performance Slice,80.0
+857,BestCQI,Business Slice,100.0
+858,NVS,Critical Slice,0.0
+859,NVS,Performance Slice,50.0
+860,NVS,Business Slice,100.0
+861,Proposed_HSRS,Critical Slice,0.0
+862,Proposed_HSRS,Performance Slice,0.0
+863,Proposed_HSRS,Business Slice,75.0
+864,Optimal ILP,Critical Slice,0.0
+865,Optimal ILP,Performance Slice,0.0
+866,Optimal ILP,Business Slice,50.0
+867,BestCQI,Critical Slice,50.0
+868,BestCQI,Performance Slice,100.0
+869,BestCQI,Business Slice,100.0
+870,NVS,Critical Slice,16.666666666666664
+871,NVS,Performance Slice,50.0
+872,NVS,Business Slice,100.0
+873,Proposed_HSRS,Critical Slice,0.0
+874,Proposed_HSRS,Performance Slice,20.0
+875,Proposed_HSRS,Business Slice,75.0
+876,Optimal ILP,Critical Slice,0.0
+877,Optimal ILP,Performance Slice,0.0
+878,Optimal ILP,Business Slice,50.0
+879,BestCQI,Critical Slice,66.66666666666666
+880,BestCQI,Performance Slice,100.0
+881,BestCQI,Business Slice,100.0
+882,NVS,Critical Slice,0.0
+883,NVS,Performance Slice,50.0
+884,NVS,Business Slice,100.0
+885,Proposed_HSRS,Critical Slice,0.0
+886,Proposed_HSRS,Performance Slice,20.0
+887,Proposed_HSRS,Business Slice,50.0
+888,Optimal ILP,Critical Slice,0.0
+889,Optimal ILP,Performance Slice,0.0
+890,Optimal ILP,Business Slice,50.0
+891,BestCQI,Critical Slice,50.0
+892,BestCQI,Performance Slice,100.0
+893,BestCQI,Business Slice,100.0
+894,NVS,Critical Slice,0.0
+895,NVS,Performance Slice,50.0
+896,NVS,Business Slice,100.0
+897,Proposed_HSRS,Critical Slice,0.0
+898,Proposed_HSRS,Performance Slice,0.0
+899,Proposed_HSRS,Business Slice,50.0
+900,Optimal ILP,Critical Slice,0.0
+901,Optimal ILP,Performance Slice,0.0
+902,Optimal ILP,Business Slice,50.0
+903,BestCQI,Critical Slice,66.66666666666666
+904,BestCQI,Performance Slice,80.0
+905,BestCQI,Business Slice,100.0
+906,NVS,Critical Slice,0.0
+907,NVS,Performance Slice,50.0
+908,NVS,Business Slice,100.0
+909,Proposed_HSRS,Critical Slice,0.0
+910,Proposed_HSRS,Performance Slice,0.0
+911,Proposed_HSRS,Business Slice,75.0
+912,Optimal ILP,Critical Slice,0.0
+913,Optimal ILP,Performance Slice,0.0
+914,Optimal ILP,Business Slice,75.0
+915,BestCQI,Critical Slice,50.0
+916,BestCQI,Performance Slice,100.0
+917,BestCQI,Business Slice,100.0
+918,NVS,Critical Slice,0.0
+919,NVS,Performance Slice,50.0
+920,NVS,Business Slice,100.0
+921,Proposed_HSRS,Critical Slice,0.0
+922,Proposed_HSRS,Performance Slice,0.0
+923,Proposed_HSRS,Business Slice,75.0
+924,Optimal ILP,Critical Slice,0.0
+925,Optimal ILP,Performance Slice,0.0
+926,Optimal ILP,Business Slice,75.0
+927,BestCQI,Critical Slice,33.33333333333333
+928,BestCQI,Performance Slice,90.0
+929,BestCQI,Business Slice,100.0
+930,NVS,Critical Slice,0.0
+931,NVS,Performance Slice,50.0
+932,NVS,Business Slice,100.0
+933,Proposed_HSRS,Critical Slice,0.0
+934,Proposed_HSRS,Performance Slice,0.0
+935,Proposed_HSRS,Business Slice,50.0
+936,Optimal ILP,Critical Slice,0.0
+937,Optimal ILP,Performance Slice,0.0
+938,Optimal ILP,Business Slice,50.0
+939,BestCQI,Critical Slice,66.66666666666666
+940,BestCQI,Performance Slice,100.0
+941,BestCQI,Business Slice,100.0
+942,NVS,Critical Slice,0.0
+943,NVS,Performance Slice,50.0
+944,NVS,Business Slice,100.0
+945,Proposed_HSRS,Critical Slice,0.0
+946,Proposed_HSRS,Performance Slice,20.0
+947,Proposed_HSRS,Business Slice,50.0
+948,Optimal ILP,Critical Slice,0.0
+949,Optimal ILP,Performance Slice,0.0
+950,Optimal ILP,Business Slice,75.0
+951,BestCQI,Critical Slice,66.66666666666666
+952,BestCQI,Performance Slice,80.0
+953,BestCQI,Business Slice,100.0
+954,NVS,Critical Slice,0.0
+955,NVS,Performance Slice,50.0
+956,NVS,Business Slice,100.0
+957,Proposed_HSRS,Critical Slice,0.0
+958,Proposed_HSRS,Performance Slice,0.0
+959,Proposed_HSRS,Business Slice,50.0
+960,Optimal ILP,Critical Slice,0.0
+961,Optimal ILP,Performance Slice,0.0
+962,Optimal ILP,Business Slice,25.0
+963,BestCQI,Critical Slice,66.66666666666666
+964,BestCQI,Performance Slice,70.0
+965,BestCQI,Business Slice,100.0
+966,NVS,Critical Slice,0.0
+967,NVS,Performance Slice,50.0
+968,NVS,Business Slice,100.0
+969,Proposed_HSRS,Critical Slice,0.0
+970,Proposed_HSRS,Performance Slice,0.0
+971,Proposed_HSRS,Business Slice,50.0
+972,Optimal ILP,Critical Slice,0.0
+973,Optimal ILP,Performance Slice,0.0
+974,Optimal ILP,Business Slice,25.0
+975,BestCQI,Critical Slice,50.0
+976,BestCQI,Performance Slice,90.0
+977,BestCQI,Business Slice,100.0
+978,NVS,Critical Slice,0.0
+979,NVS,Performance Slice,50.0
+980,NVS,Business Slice,100.0
+981,Proposed_HSRS,Critical Slice,0.0
+982,Proposed_HSRS,Performance Slice,0.0
+983,Proposed_HSRS,Business Slice,50.0
+984,Optimal ILP,Critical Slice,0.0
+985,Optimal ILP,Performance Slice,0.0
+986,Optimal ILP,Business Slice,25.0
+987,BestCQI,Critical Slice,50.0
+988,BestCQI,Performance Slice,60.0
+989,BestCQI,Business Slice,100.0
+990,NVS,Critical Slice,8.333333333333332
+991,NVS,Performance Slice,50.0
+992,NVS,Business Slice,100.0
+993,Proposed_HSRS,Critical Slice,0.0
+994,Proposed_HSRS,Performance Slice,0.0
+995,Proposed_HSRS,Business Slice,50.0
+996,Optimal ILP,Critical Slice,0.0
+997,Optimal ILP,Performance Slice,0.0
+998,Optimal ILP,Business Slice,25.0
+999,BestCQI,Critical Slice,50.0
+1000,BestCQI,Performance Slice,80.0
+1001,BestCQI,Business Slice,100.0
+1002,NVS,Critical Slice,0.0
+1003,NVS,Performance Slice,50.0
+1004,NVS,Business Slice,100.0
+1005,Proposed_HSRS,Critical Slice,0.0
+1006,Proposed_HSRS,Performance Slice,0.0
+1007,Proposed_HSRS,Business Slice,50.0
+1008,Optimal ILP,Critical Slice,0.0
+1009,Optimal ILP,Performance Slice,0.0
+1010,Optimal ILP,Business Slice,50.0
+1011,BestCQI,Critical Slice,66.66666666666666
+1012,BestCQI,Performance Slice,90.0
+1013,BestCQI,Business Slice,100.0
+1014,NVS,Critical Slice,0.0
+1015,NVS,Performance Slice,50.0
+1016,NVS,Business Slice,100.0
+1017,Proposed_HSRS,Critical Slice,0.0
+1018,Proposed_HSRS,Performance Slice,0.0
+1019,Proposed_HSRS,Business Slice,50.0
+1020,Optimal ILP,Critical Slice,0.0
+1021,Optimal ILP,Performance Slice,0.0
+1022,Optimal ILP,Business Slice,75.0
+1023,BestCQI,Critical Slice,16.666666666666664
+1024,BestCQI,Performance Slice,80.0
+1025,BestCQI,Business Slice,100.0
+1026,NVS,Critical Slice,8.333333333333332
+1027,NVS,Performance Slice,50.0
+1028,NVS,Business Slice,100.0
+1029,Proposed_HSRS,Critical Slice,0.0
+1030,Proposed_HSRS,Performance Slice,0.0
+1031,Proposed_HSRS,Business Slice,50.0
+1032,Optimal ILP,Critical Slice,0.0
+1033,Optimal ILP,Performance Slice,0.0
+1034,Optimal ILP,Business Slice,25.0
+1035,BestCQI,Critical Slice,33.33333333333333
+1036,BestCQI,Performance Slice,90.0
+1037,BestCQI,Business Slice,100.0
+1038,NVS,Critical Slice,0.0
+1039,NVS,Performance Slice,50.0
+1040,NVS,Business Slice,100.0
+1041,Proposed_HSRS,Critical Slice,0.0
+1042,Proposed_HSRS,Performance Slice,0.0
+1043,Proposed_HSRS,Business Slice,50.0
+1044,Optimal ILP,Critical Slice,0.0
+1045,Optimal ILP,Performance Slice,0.0
+1046,Optimal ILP,Business Slice,50.0
+1047,BestCQI,Critical Slice,33.33333333333333
+1048,BestCQI,Performance Slice,60.0
+1049,BestCQI,Business Slice,100.0
+1050,NVS,Critical Slice,0.0
+1051,NVS,Performance Slice,50.0
+1052,NVS,Business Slice,100.0
+1053,Proposed_HSRS,Critical Slice,0.0
+1054,Proposed_HSRS,Performance Slice,0.0
+1055,Proposed_HSRS,Business Slice,50.0
+1056,Optimal ILP,Critical Slice,0.0
+1057,Optimal ILP,Performance Slice,0.0
+1058,Optimal ILP,Business Slice,75.0
+1059,BestCQI,Critical Slice,33.33333333333333
+1060,BestCQI,Performance Slice,90.0
+1061,BestCQI,Business Slice,100.0
+1062,NVS,Critical Slice,0.0
+1063,NVS,Performance Slice,50.0
+1064,NVS,Business Slice,100.0
+1065,Proposed_HSRS,Critical Slice,0.0
+1066,Proposed_HSRS,Performance Slice,20.0
+1067,Proposed_HSRS,Business Slice,50.0
+1068,Optimal ILP,Critical Slice,0.0
+1069,Optimal ILP,Performance Slice,0.0
+1070,Optimal ILP,Business Slice,25.0
+1071,BestCQI,Critical Slice,50.0
+1072,BestCQI,Performance Slice,100.0
+1073,BestCQI,Business Slice,100.0
+1074,NVS,Critical Slice,0.0
+1075,NVS,Performance Slice,50.0
+1076,NVS,Business Slice,100.0
+1077,Proposed_HSRS,Critical Slice,0.0
+1078,Proposed_HSRS,Performance Slice,20.0
+1079,Proposed_HSRS,Business Slice,50.0
+1080,Optimal ILP,Critical Slice,0.0
+1081,Optimal ILP,Performance Slice,0.0
+1082,Optimal ILP,Business Slice,50.0
+1083,BestCQI,Critical Slice,33.33333333333333
+1084,BestCQI,Performance Slice,80.0
+1085,BestCQI,Business Slice,100.0
+1086,NVS,Critical Slice,0.0
+1087,NVS,Performance Slice,50.0
+1088,NVS,Business Slice,100.0
+1089,Proposed_HSRS,Critical Slice,0.0
+1090,Proposed_HSRS,Performance Slice,0.0
+1091,Proposed_HSRS,Business Slice,50.0
+1092,Optimal ILP,Critical Slice,0.0
+1093,Optimal ILP,Performance Slice,0.0
+1094,Optimal ILP,Business Slice,50.0
+1095,BestCQI,Critical Slice,16.666666666666664
+1096,BestCQI,Performance Slice,100.0
+1097,BestCQI,Business Slice,100.0
+1098,NVS,Critical Slice,0.0
+1099,NVS,Performance Slice,50.0
+1100,NVS,Business Slice,100.0
+1101,Proposed_HSRS,Critical Slice,0.0
+1102,Proposed_HSRS,Performance Slice,0.0
+1103,Proposed_HSRS,Business Slice,50.0
+1104,Optimal ILP,Critical Slice,0.0
+1105,Optimal ILP,Performance Slice,0.0
+1106,Optimal ILP,Business Slice,50.0
+1107,BestCQI,Critical Slice,50.0
+1108,BestCQI,Performance Slice,100.0
+1109,BestCQI,Business Slice,75.0
+1110,NVS,Critical Slice,0.0
+1111,NVS,Performance Slice,50.0
+1112,NVS,Business Slice,100.0
+1113,Proposed_HSRS,Critical Slice,0.0
+1114,Proposed_HSRS,Performance Slice,0.0
+1115,Proposed_HSRS,Business Slice,50.0
+1116,Optimal ILP,Critical Slice,0.0
+1117,Optimal ILP,Performance Slice,0.0
+1118,Optimal ILP,Business Slice,50.0
+1119,BestCQI,Critical Slice,66.66666666666666
+1120,BestCQI,Performance Slice,100.0
+1121,BestCQI,Business Slice,100.0
+1122,NVS,Critical Slice,16.666666666666664
+1123,NVS,Performance Slice,50.0
+1124,NVS,Business Slice,100.0
+1125,Proposed_HSRS,Critical Slice,0.0
+1126,Proposed_HSRS,Performance Slice,0.0
+1127,Proposed_HSRS,Business Slice,50.0
+1128,Optimal ILP,Critical Slice,0.0
+1129,Optimal ILP,Performance Slice,0.0
+1130,Optimal ILP,Business Slice,50.0
+1131,BestCQI,Critical Slice,33.33333333333333
+1132,BestCQI,Performance Slice,90.0
+1133,BestCQI,Business Slice,100.0
+1134,NVS,Critical Slice,0.0
+1135,NVS,Performance Slice,50.0
+1136,NVS,Business Slice,100.0
+1137,Proposed_HSRS,Critical Slice,0.0
+1138,Proposed_HSRS,Performance Slice,0.0
+1139,Proposed_HSRS,Business Slice,50.0
+1140,Optimal ILP,Critical Slice,0.0
+1141,Optimal ILP,Performance Slice,0.0
+1142,Optimal ILP,Business Slice,25.0
+1143,BestCQI,Critical Slice,50.0
+1144,BestCQI,Performance Slice,100.0
+1145,BestCQI,Business Slice,100.0
+1146,NVS,Critical Slice,8.333333333333332
+1147,NVS,Performance Slice,50.0
+1148,NVS,Business Slice,100.0
+1149,Proposed_HSRS,Critical Slice,0.0
+1150,Proposed_HSRS,Performance Slice,0.0
+1151,Proposed_HSRS,Business Slice,25.0
+1152,Optimal ILP,Critical Slice,0.0
+1153,Optimal ILP,Performance Slice,0.0
+1154,Optimal ILP,Business Slice,25.0
+1155,BestCQI,Critical Slice,66.66666666666666
+1156,BestCQI,Performance Slice,100.0
+1157,BestCQI,Business Slice,100.0
+1158,NVS,Critical Slice,0.0
+1159,NVS,Performance Slice,50.0
+1160,NVS,Business Slice,100.0
+1161,Proposed_HSRS,Critical Slice,0.0
+1162,Proposed_HSRS,Performance Slice,0.0
+1163,Proposed_HSRS,Business Slice,25.0
+1164,Optimal ILP,Critical Slice,0.0
+1165,Optimal ILP,Performance Slice,0.0
+1166,Optimal ILP,Business Slice,50.0
+1167,BestCQI,Critical Slice,50.0
+1168,BestCQI,Performance Slice,100.0
+1169,BestCQI,Business Slice,100.0
+1170,NVS,Critical Slice,0.0
+1171,NVS,Performance Slice,50.0
+1172,NVS,Business Slice,100.0
+1173,Proposed_HSRS,Critical Slice,0.0
+1174,Proposed_HSRS,Performance Slice,0.0
+1175,Proposed_HSRS,Business Slice,50.0
+1176,Optimal ILP,Critical Slice,0.0
+1177,Optimal ILP,Performance Slice,0.0
+1178,Optimal ILP,Business Slice,50.0
+1179,BestCQI,Critical Slice,33.33333333333333
+1180,BestCQI,Performance Slice,100.0
+1181,BestCQI,Business Slice,100.0
+1182,NVS,Critical Slice,8.333333333333332
+1183,NVS,Performance Slice,50.0
+1184,NVS,Business Slice,100.0
+1185,Proposed_HSRS,Critical Slice,0.0
+1186,Proposed_HSRS,Performance Slice,20.0
+1187,Proposed_HSRS,Business Slice,50.0
+1188,Optimal ILP,Critical Slice,0.0
+1189,Optimal ILP,Performance Slice,0.0
+1190,Optimal ILP,Business Slice,50.0
+1191,BestCQI,Critical Slice,66.66666666666666
+1192,BestCQI,Performance Slice,100.0
+1193,BestCQI,Business Slice,100.0
+1194,NVS,Critical Slice,16.666666666666664
+1195,NVS,Performance Slice,50.0
+1196,NVS,Business Slice,100.0
+1197,Proposed_HSRS,Critical Slice,0.0
+1198,Proposed_HSRS,Performance Slice,0.0
+1199,Proposed_HSRS,Business Slice,50.0
