@@ -63,14 +63,14 @@
 61,Optimal ILP,Performance Slice,0.0
 62,Optimal ILP,Business Slice,0.0
 63,BestCQI,Critical Slice,66.66666666666666
-64,BestCQI,Performance Slice,70.0
+64,BestCQI,Performance Slice,60.0
 65,BestCQI,Business Slice,75.0
 66,NVS,Critical Slice,8.333333333333332
 67,NVS,Performance Slice,50.0
 68,NVS,Business Slice,100.0
 69,Proposed_HSRS,Critical Slice,0.0
-70,Proposed_HSRS,Performance Slice,20.0
-71,Proposed_HSRS,Business Slice,0.0
+70,Proposed_HSRS,Performance Slice,0.0
+71,Proposed_HSRS,Business Slice,25.0
 72,Optimal ILP,Critical Slice,0.0
 73,Optimal ILP,Performance Slice,0.0
 74,Optimal ILP,Business Slice,0.0
@@ -87,7 +87,7 @@
 85,Optimal ILP,Performance Slice,0.0
 86,Optimal ILP,Business Slice,0.0
 87,BestCQI,Critical Slice,66.66666666666666
-88,BestCQI,Performance Slice,50.0
+88,BestCQI,Performance Slice,60.0
 89,BestCQI,Business Slice,75.0
 90,NVS,Critical Slice,0.0
 91,NVS,Performance Slice,50.0
@@ -98,8 +98,8 @@
 96,Optimal ILP,Critical Slice,0.0
 97,Optimal ILP,Performance Slice,0.0
 98,Optimal ILP,Business Slice,0.0
-99,BestCQI,Critical Slice,58.333333333333336
-100,BestCQI,Performance Slice,40.0
+99,BestCQI,Critical Slice,50.0
+100,BestCQI,Performance Slice,50.0
 101,BestCQI,Business Slice,50.0
 102,NVS,Critical Slice,16.666666666666664
 103,NVS,Performance Slice,50.0
@@ -130,7 +130,7 @@
 128,NVS,Business Slice,100.0
 129,Proposed_HSRS,Critical Slice,0.0
 130,Proposed_HSRS,Performance Slice,0.0
-131,Proposed_HSRS,Business Slice,0.0
+131,Proposed_HSRS,Business Slice,25.0
 132,Optimal ILP,Critical Slice,0.0
 133,Optimal ILP,Performance Slice,0.0
 134,Optimal ILP,Business Slice,0.0
@@ -147,7 +147,7 @@
 145,Optimal ILP,Performance Slice,0.0
 146,Optimal ILP,Business Slice,0.0
 147,BestCQI,Critical Slice,83.33333333333334
-148,BestCQI,Performance Slice,90.0
+148,BestCQI,Performance Slice,80.0
 149,BestCQI,Business Slice,50.0
 150,NVS,Critical Slice,0.0
 151,NVS,Performance Slice,50.0
@@ -206,8 +206,8 @@
 204,Optimal ILP,Critical Slice,0.0
 205,Optimal ILP,Performance Slice,0.0
 206,Optimal ILP,Business Slice,0.0
-207,BestCQI,Critical Slice,66.66666666666666
-208,BestCQI,Performance Slice,70.0
+207,BestCQI,Critical Slice,75.0
+208,BestCQI,Performance Slice,60.0
 209,BestCQI,Business Slice,75.0
 210,NVS,Critical Slice,0.0
 211,NVS,Performance Slice,50.0
@@ -346,7 +346,7 @@
 344,NVS,Business Slice,100.0
 345,Proposed_HSRS,Critical Slice,0.0
 346,Proposed_HSRS,Performance Slice,0.0
-347,Proposed_HSRS,Business Slice,0.0
+347,Proposed_HSRS,Business Slice,25.0
 348,Optimal ILP,Critical Slice,0.0
 349,Optimal ILP,Performance Slice,0.0
 350,Optimal ILP,Business Slice,0.0
@@ -375,14 +375,14 @@
 373,Optimal ILP,Performance Slice,0.0
 374,Optimal ILP,Business Slice,0.0
 375,BestCQI,Critical Slice,66.66666666666666
-376,BestCQI,Performance Slice,70.0
+376,BestCQI,Performance Slice,60.0
 377,BestCQI,Business Slice,100.0
 378,NVS,Critical Slice,0.0
 379,NVS,Performance Slice,50.0
 380,NVS,Business Slice,100.0
 381,Proposed_HSRS,Critical Slice,0.0
 382,Proposed_HSRS,Performance Slice,20.0
-383,Proposed_HSRS,Business Slice,0.0
+383,Proposed_HSRS,Business Slice,50.0
 384,Optimal ILP,Critical Slice,0.0
 385,Optimal ILP,Performance Slice,0.0
 386,Optimal ILP,Business Slice,0.0
@@ -405,8 +405,8 @@
 403,NVS,Performance Slice,50.0
 404,NVS,Business Slice,100.0
 405,Proposed_HSRS,Critical Slice,0.0
-406,Proposed_HSRS,Performance Slice,40.0
-407,Proposed_HSRS,Business Slice,25.0
+406,Proposed_HSRS,Performance Slice,0.0
+407,Proposed_HSRS,Business Slice,50.0
 408,Optimal ILP,Critical Slice,0.0
 409,Optimal ILP,Performance Slice,0.0
 410,Optimal ILP,Business Slice,25.0
@@ -417,7 +417,7 @@
 415,NVS,Performance Slice,50.0
 416,NVS,Business Slice,100.0
 417,Proposed_HSRS,Critical Slice,0.0
-418,Proposed_HSRS,Performance Slice,10.0
+418,Proposed_HSRS,Performance Slice,0.0
 419,Proposed_HSRS,Business Slice,25.0
 420,Optimal ILP,Critical Slice,0.0
 421,Optimal ILP,Performance Slice,0.0
@@ -477,20 +477,20 @@
 475,NVS,Performance Slice,50.0
 476,NVS,Business Slice,100.0
 477,Proposed_HSRS,Critical Slice,0.0
-478,Proposed_HSRS,Performance Slice,20.0
+478,Proposed_HSRS,Performance Slice,0.0
 479,Proposed_HSRS,Business Slice,25.0
 480,Optimal ILP,Critical Slice,0.0
 481,Optimal ILP,Performance Slice,0.0
 482,Optimal ILP,Business Slice,0.0
 483,BestCQI,Critical Slice,33.33333333333333
-484,BestCQI,Performance Slice,70.0
+484,BestCQI,Performance Slice,60.0
 485,BestCQI,Business Slice,75.0
 486,NVS,Critical Slice,0.0
 487,NVS,Performance Slice,50.0
 488,NVS,Business Slice,100.0
 489,Proposed_HSRS,Critical Slice,0.0
-490,Proposed_HSRS,Performance Slice,10.0
-491,Proposed_HSRS,Business Slice,0.0
+490,Proposed_HSRS,Performance Slice,0.0
+491,Proposed_HSRS,Business Slice,25.0
 492,Optimal ILP,Critical Slice,0.0
 493,Optimal ILP,Performance Slice,0.0
 494,Optimal ILP,Business Slice,0.0
@@ -506,7 +506,7 @@
 504,Optimal ILP,Critical Slice,0.0
 505,Optimal ILP,Performance Slice,0.0
 506,Optimal ILP,Business Slice,0.0
-507,BestCQI,Critical Slice,33.33333333333333
+507,BestCQI,Critical Slice,41.66666666666667
 508,BestCQI,Performance Slice,70.0
 509,BestCQI,Business Slice,75.0
 510,NVS,Critical Slice,0.0
@@ -525,7 +525,7 @@
 523,NVS,Performance Slice,50.0
 524,NVS,Business Slice,100.0
 525,Proposed_HSRS,Critical Slice,0.0
-526,Proposed_HSRS,Performance Slice,10.0
+526,Proposed_HSRS,Performance Slice,0.0
 527,Proposed_HSRS,Business Slice,25.0
 528,Optimal ILP,Critical Slice,0.0
 529,Optimal ILP,Performance Slice,0.0
@@ -543,19 +543,19 @@
 541,Optimal ILP,Performance Slice,0.0
 542,Optimal ILP,Business Slice,100.0
 543,BestCQI,Critical Slice,33.33333333333333
-544,BestCQI,Performance Slice,60.0
+544,BestCQI,Performance Slice,70.0
 545,BestCQI,Business Slice,50.0
 546,NVS,Critical Slice,0.0
 547,NVS,Performance Slice,50.0
 548,NVS,Business Slice,100.0
 549,Proposed_HSRS,Critical Slice,0.0
 550,Proposed_HSRS,Performance Slice,0.0
-551,Proposed_HSRS,Business Slice,25.0
+551,Proposed_HSRS,Business Slice,50.0
 552,Optimal ILP,Critical Slice,0.0
 553,Optimal ILP,Performance Slice,0.0
 554,Optimal ILP,Business Slice,0.0
 555,BestCQI,Critical Slice,33.33333333333333
-556,BestCQI,Performance Slice,60.0
+556,BestCQI,Performance Slice,70.0
 557,BestCQI,Business Slice,75.0
 558,NVS,Critical Slice,0.0
 559,NVS,Performance Slice,50.0
@@ -591,26 +591,26 @@
 589,Optimal ILP,Performance Slice,0.0
 590,Optimal ILP,Business Slice,75.0
 591,BestCQI,Critical Slice,66.66666666666666
-592,BestCQI,Performance Slice,60.0
+592,BestCQI,Performance Slice,50.0
 593,BestCQI,Business Slice,75.0
 594,NVS,Critical Slice,0.0
 595,NVS,Performance Slice,50.0
 596,NVS,Business Slice,100.0
 597,Proposed_HSRS,Critical Slice,0.0
-598,Proposed_HSRS,Performance Slice,40.0
-599,Proposed_HSRS,Business Slice,25.0
+598,Proposed_HSRS,Performance Slice,0.0
+599,Proposed_HSRS,Business Slice,50.0
 600,Optimal ILP,Critical Slice,0.0
 601,Optimal ILP,Performance Slice,0.0
 602,Optimal ILP,Business Slice,75.0
 603,BestCQI,Critical Slice,16.666666666666664
 604,BestCQI,Performance Slice,60.0
-605,BestCQI,Business Slice,75.0
+605,BestCQI,Business Slice,100.0
 606,NVS,Critical Slice,0.0
 607,NVS,Performance Slice,50.0
 608,NVS,Business Slice,100.0
 609,Proposed_HSRS,Critical Slice,0.0
 610,Proposed_HSRS,Performance Slice,20.0
-611,Proposed_HSRS,Business Slice,0.0
+611,Proposed_HSRS,Business Slice,25.0
 612,Optimal ILP,Critical Slice,0.0
 613,Optimal ILP,Performance Slice,0.0
 614,Optimal ILP,Business Slice,75.0
@@ -621,7 +621,7 @@
 619,NVS,Performance Slice,50.0
 620,NVS,Business Slice,100.0
 621,Proposed_HSRS,Critical Slice,0.0
-622,Proposed_HSRS,Performance Slice,0.0
+622,Proposed_HSRS,Performance Slice,10.0
 623,Proposed_HSRS,Business Slice,50.0
 624,Optimal ILP,Critical Slice,0.0
 625,Optimal ILP,Performance Slice,0.0
@@ -693,13 +693,13 @@
 691,NVS,Performance Slice,50.0
 692,NVS,Business Slice,100.0
 693,Proposed_HSRS,Critical Slice,0.0
-694,Proposed_HSRS,Performance Slice,20.0
-695,Proposed_HSRS,Business Slice,50.0
+694,Proposed_HSRS,Performance Slice,0.0
+695,Proposed_HSRS,Business Slice,75.0
 696,Optimal ILP,Critical Slice,0.0
 697,Optimal ILP,Performance Slice,0.0
 698,Optimal ILP,Business Slice,25.0
-699,BestCQI,Critical Slice,41.66666666666667
-700,BestCQI,Performance Slice,70.0
+699,BestCQI,Critical Slice,33.33333333333333
+700,BestCQI,Performance Slice,60.0
 701,BestCQI,Business Slice,100.0
 702,NVS,Critical Slice,0.0
 703,NVS,Performance Slice,50.0
@@ -753,8 +753,8 @@
 751,NVS,Performance Slice,50.0
 752,NVS,Business Slice,100.0
 753,Proposed_HSRS,Critical Slice,0.0
-754,Proposed_HSRS,Performance Slice,20.0
-755,Proposed_HSRS,Business Slice,50.0
+754,Proposed_HSRS,Performance Slice,10.0
+755,Proposed_HSRS,Business Slice,75.0
 756,Optimal ILP,Critical Slice,0.0
 757,Optimal ILP,Performance Slice,0.0
 758,Optimal ILP,Business Slice,75.0
@@ -777,7 +777,7 @@
 775,NVS,Performance Slice,50.0
 776,NVS,Business Slice,100.0
 777,Proposed_HSRS,Critical Slice,0.0
-778,Proposed_HSRS,Performance Slice,20.0
+778,Proposed_HSRS,Performance Slice,0.0
 779,Proposed_HSRS,Business Slice,100.0
 780,Optimal ILP,Critical Slice,0.0
 781,Optimal ILP,Performance Slice,0.0
@@ -814,7 +814,7 @@
 812,NVS,Business Slice,100.0
 813,Proposed_HSRS,Critical Slice,0.0
 814,Proposed_HSRS,Performance Slice,20.0
-815,Proposed_HSRS,Business Slice,75.0
+815,Proposed_HSRS,Business Slice,100.0
 816,Optimal ILP,Critical Slice,0.0
 817,Optimal ILP,Performance Slice,0.0
 818,Optimal ILP,Business Slice,75.0
@@ -843,7 +843,7 @@
 841,Optimal ILP,Performance Slice,0.0
 842,Optimal ILP,Business Slice,75.0
 843,BestCQI,Critical Slice,50.0
-844,BestCQI,Performance Slice,70.0
+844,BestCQI,Performance Slice,60.0
 845,BestCQI,Business Slice,100.0
 846,NVS,Critical Slice,0.0
 847,NVS,Performance Slice,50.0
@@ -885,8 +885,8 @@
 883,NVS,Performance Slice,50.0
 884,NVS,Business Slice,100.0
 885,Proposed_HSRS,Critical Slice,0.0
-886,Proposed_HSRS,Performance Slice,20.0
-887,Proposed_HSRS,Business Slice,50.0
+886,Proposed_HSRS,Performance Slice,0.0
+887,Proposed_HSRS,Business Slice,75.0
 888,Optimal ILP,Critical Slice,0.0
 889,Optimal ILP,Performance Slice,0.0
 890,Optimal ILP,Business Slice,50.0
@@ -902,8 +902,8 @@
 900,Optimal ILP,Critical Slice,0.0
 901,Optimal ILP,Performance Slice,0.0
 902,Optimal ILP,Business Slice,50.0
-903,BestCQI,Critical Slice,66.66666666666666
-904,BestCQI,Performance Slice,80.0
+903,BestCQI,Critical Slice,58.333333333333336
+904,BestCQI,Performance Slice,90.0
 905,BestCQI,Business Slice,100.0
 906,NVS,Critical Slice,0.0
 907,NVS,Performance Slice,50.0
@@ -934,7 +934,7 @@
 932,NVS,Business Slice,100.0
 933,Proposed_HSRS,Critical Slice,0.0
 934,Proposed_HSRS,Performance Slice,0.0
-935,Proposed_HSRS,Business Slice,50.0
+935,Proposed_HSRS,Business Slice,75.0
 936,Optimal ILP,Critical Slice,0.0
 937,Optimal ILP,Performance Slice,0.0
 938,Optimal ILP,Business Slice,50.0
@@ -946,7 +946,7 @@
 944,NVS,Business Slice,100.0
 945,Proposed_HSRS,Critical Slice,0.0
 946,Proposed_HSRS,Performance Slice,20.0
-947,Proposed_HSRS,Business Slice,50.0
+947,Proposed_HSRS,Business Slice,75.0
 948,Optimal ILP,Critical Slice,0.0
 949,Optimal ILP,Performance Slice,0.0
 950,Optimal ILP,Business Slice,75.0
@@ -958,7 +958,7 @@
 956,NVS,Business Slice,100.0
 957,Proposed_HSRS,Critical Slice,0.0
 958,Proposed_HSRS,Performance Slice,0.0
-959,Proposed_HSRS,Business Slice,50.0
+959,Proposed_HSRS,Business Slice,75.0
 960,Optimal ILP,Critical Slice,0.0
 961,Optimal ILP,Performance Slice,0.0
 962,Optimal ILP,Business Slice,25.0
@@ -1047,7 +1047,7 @@
 1045,Optimal ILP,Performance Slice,0.0
 1046,Optimal ILP,Business Slice,50.0
 1047,BestCQI,Critical Slice,33.33333333333333
-1048,BestCQI,Performance Slice,60.0
+1048,BestCQI,Performance Slice,70.0
 1049,BestCQI,Business Slice,100.0
 1050,NVS,Critical Slice,0.0
 1051,NVS,Performance Slice,50.0
@@ -1065,8 +1065,8 @@
 1063,NVS,Performance Slice,50.0
 1064,NVS,Business Slice,100.0
 1065,Proposed_HSRS,Critical Slice,0.0
-1066,Proposed_HSRS,Performance Slice,20.0
-1067,Proposed_HSRS,Business Slice,50.0
+1066,Proposed_HSRS,Performance Slice,0.0
+1067,Proposed_HSRS,Business Slice,75.0
 1068,Optimal ILP,Critical Slice,0.0
 1069,Optimal ILP,Performance Slice,0.0
 1070,Optimal ILP,Business Slice,25.0
@@ -1077,7 +1077,7 @@
 1075,NVS,Performance Slice,50.0
 1076,NVS,Business Slice,100.0
 1077,Proposed_HSRS,Critical Slice,0.0
-1078,Proposed_HSRS,Performance Slice,20.0
+1078,Proposed_HSRS,Performance Slice,0.0
 1079,Proposed_HSRS,Business Slice,50.0
 1080,Optimal ILP,Critical Slice,0.0
 1081,Optimal ILP,Performance Slice,0.0
@@ -1108,7 +1108,7 @@
 1106,Optimal ILP,Business Slice,50.0
 1107,BestCQI,Critical Slice,50.0
 1108,BestCQI,Performance Slice,100.0
-1109,BestCQI,Business Slice,75.0
+1109,BestCQI,Business Slice,100.0
 1110,NVS,Critical Slice,0.0
 1111,NVS,Performance Slice,50.0
 1112,NVS,Business Slice,100.0
