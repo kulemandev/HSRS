@@ -47,15 +47,45 @@ During the simulation, each subband CQI will be progressively injected according
 
 
 ## 2. Main simulation : 
-HSRS.ipynb
+HSRS.ipynb <br>
 
-```javascript
-import Component from 'my-project'
+this code strcuture is as follow :
 
-function App() {
-  return <Component />
-}
-```
+**Parameter Initialization:**
+The first part of the code defines all necessary parameters for the simulation, including the number of simulation episodes, the number of UEs per slice, and various system variables used in throughput calculation (e.g., subband CQI, MCS, MIMO layers, etc.).
+
+**Subband CQI Injection:**
+Subband CQI values are retrieved from the subband_cqi folder and injected at each resource allocation episode, which occurs every 10 milliseconds.
+
+**Solution Approach Implemented:**
+
+1. Gurobi Solver:
+The Gurobi solver is used to solver the Integer Linear Programming (ILP) for resource allocation. An academic free license is available for installation. https://www.gurobi.com/academia/academic-program-and-licenses/
+
+Once the  gurobi academic license key is obtained for eaxmple
+`4d7be1b0-9d37-49e0-bc1e-9b11e1c54bba`
+, then download the .lic file in a path. insert this :   `export GRB_LICENSE_FILE="/path/to/your/gurobi.lic"`
+into bashrc file: 
+```nano ~/.bashrc```  
+
+run it with: ```source ~/.bashrc```
+finaly install the gurobi using pip: ``` pip install gurobipy```
+
+
+2. Baseline Algorithm Implementations:
+implementations of baseline algorithms such as NVS and BestCQI.
+
+3. HSRS Implementation: run_myheuristic_allocation():
+Our proposed algorithm, HSRS, is implemented and integrated into the framework.
+
+**Main Simulation Loop:**
+This section coordinates all components, calling relevant functions in sequence to execute the simulation.
+
+Performance Metrics and Visualization:
+Finally, key performance metrics are computed and plotted to evaluate and compare the performance of the different algorithms.
+
+In case you did not success to install Gurobi license the "HSRS.ipynb" code will not work because of errors. You can use the **"HSRS_without_ILP_solver.ipynb"** file where Gurobi solver is removed from the code.
+
 [1] Y. Pan, R. Li, and C. Xu, “The First 5G-LTE Comparative Study in
 Extreme Mobility,” Proceedings of the ACM on Measurement and
 Analysis of Computing Systems, vol. 6, no. 1, pp. 1–22, Feb. 2022.
