@@ -1,5 +1,5 @@
 
-# HSRS: Hierarchical Slack-Reduction Slicing for railways FRMCS
+# DHS: Distributed Edge-based Hierarchical Slicing for railways FRMCS
 
 Abstract: Future Railway Mobile Communication System
 (FRMCS) is a 5G network that is currently being developed
