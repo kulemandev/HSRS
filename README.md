@@ -13,7 +13,7 @@ Wi-Fi). Nevertheless, existing schedulers, designed for public 5G
 Networks, assume wideband carriers or static quotas, so they
 cannot guarantee per-flow service-level agreements (SLAs) or
 adapt to dynamic channel-quality indicator (CQI) swings. That
-is why we propose HSRS (Hierarchical Slack-Reduction Slicing),
+is why we propose DHS (Hierarchical Slack-Reduction Slicing),
 which formulates this NP-hard allocation problem as an integer
 linear program and applies a two-phase heuristic: 1) minimize
 SLA slack for critical ; 2) maximize weighted throughput for
